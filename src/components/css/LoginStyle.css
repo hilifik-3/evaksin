@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+.teks-2{
+	font-size: 25px;
+	font-family: 'Poppins';
+	color: #152137;
+	font-weight: 700;
+}
+
+label{
+  font-family: Poppins;
+  font-size: 13px;
+  color: #152137;
+}
+
+.card{
+	max-width: 455px;
+	border: none;
+}
+
+.form-control{
+	background: #e3e3e3;
+	border: none;
+	border-radius: 5px;
+	font-size: 13px;
+	max-width: 382px;
+}
+
+a{
+	font-size: 12px;
+	font-family: 'Poppins';
+	color: #a7a7a7;
+	text-decoration: none;
+	float: right;
+}
+
+.btn-login-page{
+	font-family: 'Poppins';
+	font-size: 13px;
+	font-weight: 600;
+	width: 48%;
+}
+
+.btn-primary{
+	color: #fff;
+	background: #143dcc;
+	border: none;
+}
+
+.strip{
+	width: 80px;
+	margin-top: -33px;
+	background: #e3e3e3;
+}
