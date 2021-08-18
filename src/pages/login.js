@@ -46,8 +46,9 @@ function login() {
 		    </Col>
 		  </Row>
 		  </Container>
-		  <br />
-		  <FooterComponent />
+		  <div className="py-5">
+		  	<FooterComponent />
+		  </div>
 		  </div>
   )
 }
